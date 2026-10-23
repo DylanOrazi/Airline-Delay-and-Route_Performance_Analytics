@@ -173,20 +173,11 @@ Some major findings from the synthetic dataset include:
 
 ---
 
-## Project Structure
+## How to Run
 
-```text
-Data/
-    Raw/
-    Cleaned/
-
-Python/
-
-Database/
-
-SQL Queries/
-
-Power BI/
+- Download and extract the folder.
+- Navigate to the Power BI folder and double click the BI file (Power BI Desktop must be installed in order to successfully open the file)
+  
 
 Exports/
     Python Charts/
