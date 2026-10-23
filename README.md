@@ -177,11 +177,3 @@ Some major findings from the synthetic dataset include:
 
 - Download and extract the folder.
 - Navigate to the Power BI folder and double click the BI file (Power BI Desktop must be installed in order to successfully open the file)
-  
-
-Exports/
-    Python Charts/
-    Python Analysis/
-    SQL Results/
-
-Screenshots/
